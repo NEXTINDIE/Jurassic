@@ -1,7 +1,8 @@
-# Jurassic_Island-Project
-<h2>【侏罗纪岛开发管理中心】</h2>
+# 侏罗纪岛开发管理中心
 <br/>
   目的在于更好的管理项目，与社区参与者和玩家更好的解决游戏问题。
+<hr/>
+<h3>【侏罗纪岛蓝图计划】</h3>
 <br/>
 访问项目蓝图：https://github.com/users/NEXTINDIE/projects/3
 <br>
