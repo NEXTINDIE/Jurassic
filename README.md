@@ -5,6 +5,9 @@
 <h3>【侏罗纪岛蓝图计划】</h3>
 > 访问项目蓝图：https://github.com/users/NEXTINDIE/projects/3
 <br>
+<h3>【侏罗纪岛里程碑】</h3>
+> 访问里 程 碑：https://github.com/NEXTINDIE/Jurassic_Island-Project/milestones
+<br>
 <h3>【如何参与社区提出BUG和功能建议？】</h3>
 > 访问问题和建议：https://github.com/NEXTINDIE/Jurassic_Island-Project/issues
 
