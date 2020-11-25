@@ -66,3 +66,39 @@
 - 键盘M：夜视 <br>
 - 键盘I：查看数据<br>
 - 键盘SHIFT+W：奔跑
+
+> 【局域网代码】<br>
+- [变更恐龙] /change allo 1 （/change 恐龙代码 皮肤）<br>
+- [重生代码] /rebirth allo 1 （/rebirth 恐龙代码 皮肤）<br>
+- [成长代码] /growth 1<br>
+- [状态全满] /full<br>
+- [安全时间] /safe 0 （/safe 秒）<br>
+- [猎人模式] /hunter allo ET534NMF5 （/hunter 恐龙代码 玩家ID）<br>
+- [战争模式] /war allo stego （/war 恐龙代码 恐龙代码）<br>
+- [天气变更] /weather 1<br>
+- [昼夜速度] /timeSpeed 15 （/timeSpeed 分钟）<br>
+- [添加队友AI] /add_team giga 1 （/add_dino 恐龙代码 体型）<br>
+- [添加单个AI] /add_dino giga 1 （/add_dino 恐龙代码 体型）<br>
+- [添加大量AI] /add_dinos 10 （/add_dinos 随机生成的数量）<br>
+- [添加族群AI] /add_eco giga 1 （/add_dino 恐龙代码 数量）<br>
+- [添加生态AI] /add_ecos 10 （/add_dinos 随机生态组数量）<br>
+
+> 【恐龙代码】<br>
+- [高棘龙] acro<br>
+- [单脊龙] mono<br>
+- [蛮龙] torvo<br>
+- [异特龙] allo<br>
+- [依潘龙] epan<br>
+- [腕龙] brach<br>
+- [鲨齿龙] carch<br>
+- [昆卡猎龙] conca<br>
+- [新猎龙] neov<br>
+- [马普龙] mapu<br>
+- [南方巨兽龙] giga<br>
+- [埃雷拉龙] herrer<br>
+- [翼龙] ptera<br>
+- [食蜥王龙] sauro<br>
+- [剑龙] stego<br>
+- [特暴龙] tarbo<br>
+- [三角龙] trike<br>
+- [伶盗龙] velo<br>
