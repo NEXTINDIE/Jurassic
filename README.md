@@ -87,6 +87,8 @@
 - [添加大量AI] /add_dinos 10 （/add_dinos 随机生成的数量）<br>
 - [添加族群AI] /add_eco giga 1 （/add_dino 恐龙代码 数量）<br>
 - [添加生态AI] /add_ecos 10 （/add_dinos 随机生态组数量）<br>
+- [移动到位置] /move ET534NMF5（/move 玩家ID）<br>
+- [移动玩家到位置] /moveTo ET534NMF5 JNNM412O（/moveTo 玩家ID 玩家ID）<br>
 
 > 【恐龙代码】<br>
 - [高棘龙] acro<br>
