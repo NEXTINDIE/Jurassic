@@ -77,7 +77,9 @@
 - [重生代码] /rebirth allo 1 （/rebirth 恐龙代码 皮肤）<br>
 - [成长代码] /growth 1<br>
 - [状态全满] /full<br>
+- [无敌状态] /isGod 1 （/isGod 0 = 关闭，1 = 开启）<br>
 - [安全时间] /safe 0 （/safe 秒）<br>
+- [阵营战争] /teamWar allo 10 A （/teamWar 恐龙代码 数量 阵营名称）<br>
 - [猎人模式] /hunter allo ET534NMF5 （/hunter 恐龙代码 玩家ID）<br>
 - [战争模式] /war allo stego （/war 恐龙代码 恐龙代码）<br>
 - [天气变更] /weather 1<br>
