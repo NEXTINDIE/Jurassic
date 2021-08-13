@@ -113,3 +113,6 @@
 - [特暴龙] tarbo<br>
 - [三角龙] trike<br>
 - [伶盗龙] velo<br>
+- [巨齿龙] mega<br>
+- [巨齿鲨] megal<br>
+- [虹鳟鱼] trout<br>
