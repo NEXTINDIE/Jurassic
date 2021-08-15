@@ -116,3 +116,6 @@
 - [巨齿龙] mega<br>
 - [巨齿鲨] megal<br>
 - [虹鳟鱼] trout<br>
+- [肿头龙] pachyc<br>
+- [副栉龙] para<br>
+- [禽龙] iguan<br>
